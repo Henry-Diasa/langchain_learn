@@ -8,7 +8,9 @@
     "langchain/": "npm:/langchain@0.1.28/",
     "@langchain/core": "npm:/@langchain/core@0.1.48",
     "@langchain/core/": "npm:/@langchain/core@0.1.48/",
-    "langsmith": "npm:/langsmith@0.1.68"
+    "langsmith": "npm:/langsmith@0.1.68",
+    "pdf-parse": "npm:/pdf-parse/lib/pdf-parse.js",
+    "ignore": "npm:/ignore"
   },
   "deno.enable": true
 }
